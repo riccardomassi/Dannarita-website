@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const PresentazioneHome = () => {
   return (
-    <div className="relative h-screen w-full flex items-end justify-start lg:text-2xl">
+    <div className="relative h-screen w-full flex items-end justify-start text-sm lg:text-2xl">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image 
