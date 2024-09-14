@@ -17,7 +17,7 @@ const PresentazioneHome = () => {
       </div>
       
       {/* Text Content */}
-      <div className="relative z-10 bg-black bg-opacity-80 shadow-2xl py-4 px-6 mx-4 mb-16 lg:mb-32 ml-16 rounded-br-3xl rounded-tl-3xl font-serif text-center text-white">
+      <div className="relative z-10 bg-black bg-opacity-80 shadow-2xl py-4 px-6 mx-4 mb-16 lg:mb-32 lg:ml-16 rounded-br-3xl rounded-tl-3xl font-serif text-center text-white">
         <p className="mb-2">Il nostro salone di bellezza vanta anni di esperienza nel settore dei trattamenti per capelli</p>
         <p className="mb-2">e si impegna costantemente ad offrire ai propri clienti</p>
         <p>un&apos;esperienza di bellezza dedicata interamente alle loro esigenze.</p>

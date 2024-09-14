@@ -1,8 +1,8 @@
 const Servizi = () => {
   return (
     <div className="w-full text-black bg-amber-50 lg:pt-16">
-      <h2 className="flex justify-center font-thin text-xl lg:text-4xl mb-2">Servizi, Prodotti e Acconciature per Uomo e Donna</h2>
-      <div className="flex items-center justify-evenly mt-6 lg:mt-10 mb-10 font-bold text-sm lg:text-xl">
+      <h2 className="flex justify-center font-thin text-lg lg:text-4xl mb-2">Servizi, Prodotti e Acconciature per Uomo e Donna</h2>
+      <div className="flex items-center justify-evenly mt-6 lg:mt-10 ml-4 lg:ml-0 mb-10 font-bold text-sm lg:text-xl">
         <div>
           <ul className="list-disc ml-4 space-y-3">
             <li>Taglio uomo, donna e bimbo</li>
