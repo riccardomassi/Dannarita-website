@@ -21,26 +21,6 @@ const PhotoHome = () => {
           className="rounded-md"
           objectFit="cover"
         />
-        <div className="flex justify-center md:col-span-2">
-          <Image
-            src="/home2.jpg"
-            alt="Immagine 2"
-            width={450}
-            height={200}
-            className="rounded-md"
-            objectFit="cover"
-          />
-        </div>
-        <div className="flex justify-center md:col-span-2">
-          <Image
-            src="/home5.jpg"
-            alt="Immagine 5"
-            width={450}
-            height={200}
-            className="rounded-md"
-            objectFit="cover"
-          />
-        </div>
         <Image
           src="/home4.jpg"
           alt="Immagine 4"
