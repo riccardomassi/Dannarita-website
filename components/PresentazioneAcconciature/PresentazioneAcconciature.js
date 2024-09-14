@@ -2,10 +2,10 @@ import Image from 'next/image';
 
 const PresentazioneAcconciature = () => { 
   return (
-    <div className="min-h-screen w-full text-black bg-amber-50 flex flex-col items-center justify-center text-2xl py-10">
+    <div className="min-h-screen w-full text-black bg-amber-50 flex flex-col items-center justify-center text-sm lg:text-2xl py-10">
       {/* Text Block */}
-      <div className="relative mx-20 mb-10 mt-20">
-        <div className="bg-black py-6 px-10 bg-opacity-10 rounded-br-3xl rounded-tl-3xl font-serif text-center">
+      <div className="relative mx-4 mb-10 mt-20">
+        <div className="bg-black py-4 px-6 lg:py-6 lg:px-10 bg-opacity-10 rounded-br-3xl rounded-tl-3xl font-serif text-center">
           <p>La bellezza dei capelli è la nostra vocazione: il personale altamente qualificato e specializzato in acconciature,</p>
           <p>trattamenti di rigenerazione, tagli e colorazioni, vi accoglierà in un ambiente moderno e rilassante,</p>
           <p>dotato di tecnologie all&apos;avanguardia e di prodotti di elevata qualità.</p>

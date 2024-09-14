@@ -4,7 +4,7 @@ const PhotoHome = () => {
   return (
     <div className="w-full text-black bg-amber-50 flex flex-col items-center justify-center text-2xl pt-10 px-4">
       {/* Layout per dispositivi piccoli (mobile/tablet) */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:hidden gap-4 mt-6 mb-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:hidden gap-4 mt-6 mb-6 justify-items-center">
         <Image
           src="/home1.jpg"
           alt="Immagine 1"
